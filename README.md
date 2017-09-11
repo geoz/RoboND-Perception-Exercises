@@ -68,3 +68,5 @@ Return: rgb packed as a single float32
 Creates a list of 3-tuple (rgb) with length of the list = cluster_count
 Return: get_color_list.color_list
 ```
+To view pcb files use plc_viewer <pcb filename>
+
